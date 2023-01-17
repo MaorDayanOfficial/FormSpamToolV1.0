@@ -10,11 +10,10 @@ WARNING: This project are for educational purposes only, I don't recommend you t
 
 ## Installation
 
-Install my-project with npm
-
 ```bash
   git clone https://github.com/MaorDayanOfficial/FormSpamToolV1.git
   cd FormSpamToolV1.0
+  pip install -r requirements.txt
 ```
     
 ## How to run?
