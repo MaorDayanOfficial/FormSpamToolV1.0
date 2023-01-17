@@ -14,7 +14,7 @@ Install my-project with npm
 
 ```bash
   git clone https://github.com/MaorDayanOfficial/FormSpamToolV1.git
-  cd FormSpamToolV1
+  cd FormSpamToolV1.0
 ```
     
 ## How to run?
@@ -30,7 +30,7 @@ form_data = {
 
 Save it and :
 ```bash
-cd FormSpamToolV1 (if you're not in the folder already)
+cd FormSpamToolV1.0 (if you're not in the folder already)
 python FormSpamTool.py
 ```
 To stop it : ctrl + c 
