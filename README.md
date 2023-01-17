@@ -13,7 +13,7 @@ WARNING: This project are for educational purposes only, I don't recommend you t
 Install my-project with npm
 
 ```bash
-  git-clone https://github.com/MaorDayanOfficial/FormSpamToolV1.git
+  git clone https://github.com/MaorDayanOfficial/FormSpamToolV1.git
   cd FormSpamToolV1
 ```
     
